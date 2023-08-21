@@ -1,7 +1,7 @@
 # Data Structures and Algorithms in Python
 Contents:
 
-# 1.Introduction to Data Structures and Algorithms
+## 1.Introduction to Data Structures and Algorithms
 Understanding the importance of data structures and algorithms
 Basics of algorithm analysis and complexity
 # 2.Python Basics for DSA
