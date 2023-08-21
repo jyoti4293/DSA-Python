@@ -1,5 +1,4 @@
 # Data Structures and Algorithms in Python
-Contents:
 
 ### 1.Introduction to Data Structures and Algorithms
 Understanding the importance of data structures and algorithms
